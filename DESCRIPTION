@@ -1,0 +1,15 @@
+Package: pairing
+Type: Package
+Title: Cantor and Hopcroft-Ullman Pairing Functions
+Version: 0.1
+Date: 2015-08-27
+Author: Benjamin Kjellson
+Maintainer: Benjamin Kjellson <benjak@math.su.se>
+Description: This package provides functions to uniquely encode pairs of
+    positive or non-negative integers to a single integer, and functions to
+    reverse this encoding.
+License: GPL-3
+LazyData: TRUE
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
